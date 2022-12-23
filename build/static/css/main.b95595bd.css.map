@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b95595bd.css","mappings":"AAAA,aAEI,WAAY,CADZ,UAEJ,CAKA,yCACI,0BACJ","sources":["index.css"],"sourcesContent":[".e-pivotview {\r\n    width: 100%;\r\n    height: 100%;\r\n}\r\n\r\n.sb-sample-content-area {\r\n    min-height: 255px !important;\r\n}\r\n.control-section {\r\n    min-height: 255px !important;\r\n}"],"names":[],"sourceRoot":""}
